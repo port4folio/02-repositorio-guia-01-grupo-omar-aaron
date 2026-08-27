@@ -2,4 +2,4 @@
 
 # Integrantes: Omar Barriga, Aaron Ponce
 
-<img width="1920" height="1280" alt="hyrax" src="https://github.com/user-attachments/assets/2e2c00b1-75e4-4bcc-8b1f-718215ea0256" />
+<img width="750" height="500" alt="hyrax" src="https://github.com/user-attachments/assets/2e2c00b1-75e4-4bcc-8b1f-718215ea0256" />
